@@ -77,15 +77,15 @@ body {
   #restart-btn {
     padding: 10px 20px;
     font-size: 18px;
-    background-color: #87CEFA;
-    color: white;
+    background-color: #00bcd4;
+    color: black;
     border: none;
     border-radius: 8px;
     cursor: pointer;
   }
   
   #restart-btn:hover {
-    background-color: #63B8FF;
+    background-color: #d9f4ff;
   }
   
   #footer {
